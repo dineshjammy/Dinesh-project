@@ -49,4 +49,8 @@ public class PbiBank extends BaseClass {
 	   btnClick(a.getLnBtn());
 
 	}
+	private void dinesh() {
+		
+
+	}
 }
